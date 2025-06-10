@@ -9,3 +9,5 @@ Diseño de un sistema electrónico monitorizado mediante FPGA.
 --KICAD: Proyecto de kicad que contiene el esquematico desarrollado.
 
 --ARDUINO: Codigo desarrollado para el microcontrolador.
+
+--TFG_EC: Proyecto completo con todo el contenido desarrollado.
